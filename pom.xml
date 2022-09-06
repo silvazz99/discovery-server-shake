@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eurekaServer</groupId>
-	<artifactId>TotalShake</artifactId>
+	<artifactId>Discovery-Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Discovery Server</name>
 	<description>Eureka Server</description>
